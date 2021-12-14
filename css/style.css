@@ -1,0 +1,28 @@
+.title {
+  font-size: 25px;
+  padding: 10px 10px;
+}
+.About-ttl {
+  font-size: 20px;
+  margin: 10px 10px;
+}
+.About-text {
+  margin: 10px 10px;
+}
+.Blog-card-nai {
+  margin: 10px;
+}
+.Blog-ttl {
+  font-size: 20px;
+  margin: 10px 10px;
+}
+.Blog-card img {
+  margin-bottom: 10px;
+}
+.toi-ttl {
+  font-size: 20px;
+  margin: 20px 10px;
+}
+.toi-table th {
+  text-align: center;
+}
